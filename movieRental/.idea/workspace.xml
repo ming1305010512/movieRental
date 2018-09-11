@@ -42,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/config/spring/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" column="90" lean-forward="false" selection-start-line="11" selection-start-column="90" selection-end-line="11" selection-end-column="90" />
+              <caret line="11" column="118" lean-forward="false" selection-start-line="11" selection-start-column="118" selection-end-line="11" selection-end-column="118" />
               <folding />
             </state>
           </provider>
@@ -1070,7 +1070,7 @@
       <workItem from="1536239061367" duration="1724000" />
       <workItem from="1536587987562" duration="843000" />
       <workItem from="1536591269075" duration="1402000" />
-      <workItem from="1536625143709" duration="46000" />
+      <workItem from="1536625143709" duration="747000" />
     </task>
     <servers />
   </component>
@@ -1107,7 +1107,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126579000" />
+    <option name="totallyTimeSpent" value="127280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -1560,7 +1560,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/config/spring/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="90" lean-forward="false" selection-start-line="11" selection-start-column="90" selection-end-line="11" selection-end-column="90" />
+          <caret line="11" column="118" lean-forward="false" selection-start-line="11" selection-start-column="118" selection-end-line="11" selection-end-column="118" />
           <folding />
         </state>
       </provider>
